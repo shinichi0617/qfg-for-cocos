@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7d47a8a4-b6c8-4723-9f44-1425c079f38d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BG_Forest_Night": {
+      "ver": "1.0.3",
+      "uuid": "8126a052-a933-4e0c-9862-ab44a481a7ed",
+      "rawTextureUuid": "7d47a8a4-b6c8-4723-9f44-1425c079f38d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 670,
+      "rawWidth": 1024,
+      "rawHeight": 670,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
